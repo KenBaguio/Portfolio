@@ -1,0 +1,61 @@
+body{
+    background-image: url(../image/contactbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Lucida Handwriting;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 15px;
+    padding: 5px;
+}
+.kencontnr{
+    border: 2px dashed rgb(185, 153, 111);
+    text-align: center;
+    color: rgb(173, 102, 9);
+    padding: 2px;
+    margin: 50px;
+}
+p{
+    cursor: pointer;
+}
+.kencontnr a{
+    text-decoration: none;
+    color: rgb(173, 102, 9);
+}
+.joshcontnr{
+    border: 2px dashed rgb(185, 153, 111);
+    text-align: center;
+    color: rgb(173, 102, 9);
+    padding: 2px;
+    margin: 50px;
+}
+.joshcontnr a{
+    text-decoration: none;
+    color: rgb(173, 102, 9);
+}
+.fbic{
+    border-radius: 200px;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    right: 60px;
+    top: 48px;
+}
+.plogo{
+    border-radius: 200px;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    right: 83px;
+    top: 48px;
+}
+.inslogo{
+   
+    height: 30px;
+    width: 30px;
+    position: relative;
+    right: 65px;
+    top: 48px;
+}

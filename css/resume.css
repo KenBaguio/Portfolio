@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+    font-family: Garamond;
+}
+.container{
+    background-color: white;
+    border: 2px solid rgb(184, 184, 184);
+    width: 600px;
+    height: 800px;
+    position: relative;
+    left: 360px;
+}
+.mypic{
+    object-fit: cover;  
+    height: auto;
+    width: 130px;
+    position: relative;
+    left: 18px;
+    bottom: 170px;
+    border: 1px solid black;
+}
+.line{
+    position: relative;
+    top: -170px;
+    border: 2px solid black;
+
+}
+.name{
+    position: relative;
+    left: 210px;
+    font: bold;
+}
+.address{
+    position: relative;
+    left: 220px;
+}
+.mobilenum{
+    position: relative;
+    left: 220px;
+}
+.email{
+    position: relative;
+    left: 220px;
+}
+.pdata{
+    position: relative;
+    left: 50px;
+    bottom: 160px;
+    font: bold;
+}
+.pdatas{
+    position: relative;
+    left: 80px;
+    bottom: 160px;
+    font-size: 15px;
+    margin: 2px;
+}
+.ebackg{
+    position: relative;
+    left: 50px;
+    bottom: 150px;
+    font: bold;
+}
+.ebackgs{
+    position: relative;
+    left: 80px;
+    bottom: 160px;
+    font-size: 15px;
+    margin: 2px;
+}

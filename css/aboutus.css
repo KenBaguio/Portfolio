@@ -1,0 +1,38 @@
+body{
+    background-image: url(../image/aboutus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Lucida Handwriting;
+    text-align: center;
+}
+h1{
+    font-size: 30   px;
+}
+.kencontnr{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+.joshcontnr{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+.kenpic{
+    border-radius: 390px;
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding: 30px;
+}
+.joshpic{
+    border-radius: 390px;
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding: 30px;
+}
+.about{
+    color: rgb(85, 83, 83);
+    font-size: 25px;
+}

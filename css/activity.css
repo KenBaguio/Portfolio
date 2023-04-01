@@ -1,0 +1,42 @@
+body{
+    background-image: url(../image/activitybg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    font-size: 80px;
+    font-family: Cursive;
+    color: black;
+}
+.act{
+    border: 2px solid blanchedalmond;
+    margin: 30px;
+}
+
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 70px;
+    padding: 20px;
+    color: rgb(49, 48, 48);
+}
+p{
+    text-align: center;
+    font-size: 40px;
+}
+.resu{
+    
+    text-decoration: none;
+    font-family: cursive;
+    color: rgb(212, 92, 48);
+}
+.tribu{
+    text-decoration: none;
+    font-family: cursive;
+    color: rgb(212, 92, 48);
+}

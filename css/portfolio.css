@@ -1,0 +1,45 @@
+body{
+    background-image: url(../image/bg.jpg);
+    background-color: #faebd7;
+    overflow-x: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.title{
+    font-family: 	Brush Script MT;
+    position: relative;
+    left: 38px;
+    bottom: 20px;
+    font-size: 50px;
+    font-weight: 400;
+    cursor: pointer;
+}
+a{
+    padding-left: 230px;
+    text-decoration: none;
+    color: #e47702;
+    font-size: 28px;
+    font-family: Lucida Handwriting;
+    text-decoration: none;
+}
+.welc{
+    font-size: 20px;
+    margin: 10px;
+}
+.marcon{
+    width: 500px;
+    color: rgb(85, 49, 3);
+    font-family: Papyrus;
+    position: relative;
+    left: 420px;
+}
+.pict{
+    border: 2px solid black;
+    position: relative;
+    height: 300px;
+    width: 200px;
+    left: 139px;
+    background-color: bisque;
+}
